@@ -54,7 +54,7 @@ Artifact Evaluation Committee:
 
 Teaching
 ------
- * Teaching Assistant for COMP 2011: Principles of Cybersecurity (HKUST, Fall 2022) 
+ * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2022) 
     
 Awards & Honors
 ------
