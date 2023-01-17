@@ -16,9 +16,9 @@ My research currently focuses on **Software Engineering**.
 
 Education
 ------
-**Ph.D.**, Hong Kong University of Science and Technology  &emsp; &nbsp; *Sept 2021 - Now*
+**Ph.D.** Hong Kong University of Science and Technology  &emsp; &emsp; &emsp; &nbsp; *Sept 2021 - Now*
 
-**B.E.** in Computer Science and Technology, Zhejiang University &emsp; &emsp; &emsp; &emsp; &nbsp; *Sept 2017 - June 2021*
+**B.E.** in Computer Science and Technology, Zhejiang University &emsp; *Sept 2017 - June 2021*
 
 <!--
 Academic Projects
@@ -68,8 +68,3 @@ Technical Skills
 
 
 Latest Updated in Jan. 2023
-
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Qma8wy7SwXxSesyratpVG16wwYImbiSR7vB7lYh6lDs&cl=ffffff&w=a"></script> -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=Qma8wy7SwXxSesyratpVG16wwYImbiSR7vB7lYh6lDs'></script>
-
-<!-- <a href="https://clustrmaps.com/site/1bnpl" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Qma8wy7SwXxSesyratpVG16wwYImbiSR7vB7lYh6lDs&cl=ffffff" style="display: none;"></a> -->
