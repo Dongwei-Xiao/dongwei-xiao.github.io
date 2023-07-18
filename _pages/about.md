@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, this is Dongwei Xiao's homepage.
 
-I am currently a second-year PhD student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
+I am currently a second-year PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
   Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
 
 My research currently focuses on **Software Engineering**.
@@ -20,22 +20,14 @@ Education
 
 **B.E.** in Computer Science and Technology, Zhejiang University &emsp; *Sept 2017 - June 2021*
 
-<!--
-Academic Projects
-======
-**DNN Compiler Testing**, SIGMETRICS 2022 &emsp; *March 2021 - Oct 2021*
- * We tested several industry-level Deep Learning Compilers, including [TVM](https://tvm.apache.org/), [Glow](https://github.com/pytorch/glow), and [XLA](https://www.tensorflow.org/xla).
-
-**Lifter Benchmarking**, S&P 2022 &emsp; *Apr 2020 - Apr 2021*
- * We quantitatively evaluate performance of LLVM IR lifters on supporting downstream applications including pointer analysis, binary similarity analysis and decompilation.
-
-**Decompiler Testing**, ISSTA 2020 &emsp; *Jan 2019 - Mar 2020*
- * We design a framework to automatically find errors and defects in modern decmopilers including commercial decompiler and open-source decompiler developed by NSA.
--->
-
 
 Publications
 ------
+### ASE 2023 
+**PHYFU: Fuzzing Modern Physics Simulation Engines**  
+**Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
+*The 38th IEEE/ACM International Conference on Automated Software Engineering.*
+
 ### ISSTA 2023 
 **Exploring Missed Optimizations in WebAssembly Optimizers**  
 Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng.  
@@ -62,6 +54,8 @@ Teaching
     
 Awards & Honors
 ------
+**2023** &emsp; HKUST RedBird Academic Excellence Award
+
 **2022** &emsp; Student Grant for SIGMETRICS 2022
 
 <!--
