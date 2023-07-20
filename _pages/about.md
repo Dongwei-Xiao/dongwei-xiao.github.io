@@ -24,17 +24,17 @@ Education
 Publications
 ------
 ### ASE 2023 
-**PHYFU: Fuzzing Modern Physics Simulation Engines**  
+**PHYFU: Fuzzing Modern Physics Simulation Engines** [[Code](https://github.com/PhyFuzz/phyfu)]  
 **Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
 *The 38th IEEE/ACM International Conference on Automated Software Engineering.*
 
 ### ISSTA 2023 
-**Exploring Missed Optimizations in WebAssembly Optimizers**  
+[**Exploring Missed Optimizations in WebAssembly Optimizers**](https://dl.acm.org/doi/10.1145/3597926.3598068)  
 Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng.  
 *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.*
 
 ### ICSE 2023 
-**Metamorphic Shader Fusion for Testing Graphics Shader Compilers**  
+[**Metamorphic Shader Fusion for Testing Graphics Shader Compilers**](https://ieeexplore.ieee.org/document/10172737/)  
 **Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
 *Proceedings of the 45th International Conference on Software Engineering.*
 
