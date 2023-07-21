@@ -24,7 +24,7 @@ Education
 Publications
 ------
 ### ASE 2023 
-**PHYFU: Fuzzing Modern Physics Simulation Engines** [[Code](https://github.com/PhyFuzz/phyfu)]  
+[**PHYFU: Fuzzing Modern Physics Simulation Engines**](https://arxiv.org/abs/2307.10818) [[Code](https://github.com/PhyFuzz/phyfu)]  
 **Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
 *The 38th IEEE/ACM International Conference on Automated Software Engineering.*
 
