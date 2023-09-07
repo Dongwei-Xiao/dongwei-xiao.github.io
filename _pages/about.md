@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, this is Dongwei Xiao's homepage.
 
-I am currently a second-year PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
+I am currently a third-year PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
   Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
 
 My research currently focuses on **Software Engineering**.
