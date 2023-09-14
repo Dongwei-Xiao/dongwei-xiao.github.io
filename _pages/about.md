@@ -27,6 +27,7 @@ Publications
 [**PHYFU: Fuzzing Modern Physics Simulation Engines**](https://arxiv.org/abs/2307.10818) [[Code](https://github.com/PhyFuzz/phyfu)]  
 **Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
 *The 38th IEEE/ACM International Conference on Automated Software Engineering.*
+🏆 **ACM SIGSOFT Distinguished Paper Award**
 
 ### ISSTA 2023 
 [**Exploring Missed Optimizations in WebAssembly Optimizers**](https://dl.acm.org/doi/10.1145/3597926.3598068)  
