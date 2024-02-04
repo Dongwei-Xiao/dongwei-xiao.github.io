@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, this is Dongwei Xiao's homepage.
 
-I am currently a third-year PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
+I am currently a third-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
   Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
 
 My research currently focuses on **Software Engineering**.
@@ -23,6 +23,12 @@ Education
 
 Publications
 ------
+### FSE 2024 
+**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers
+**  
+Yichen Li, **Dongwei Xiao**, Zhibo Liu, Qi Pang, and Shuai Wang   
+*The ACM International Conference on the Foundations of Software Engineering, 2024.*  
+
 ### ASE 2023 
 [**PHYFU: Fuzzing Modern Physics Simulation Engines**](https://arxiv.org/abs/2307.10818) [[Code](https://github.com/PhyFuzz/phyfu)]  
 **Dongwei Xiao**, Zhibo Liu, Shuai Wang.  
@@ -51,6 +57,7 @@ Artifact Evaluation Committee:
 
 Teaching
 ------
+ * Teaching Assistant for COMP 3632: Principles of Cybersecurity (HKUST, Fall 2024) 
  * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2022) 
     
 Awards & Honors
@@ -66,6 +73,6 @@ Technical Skills
 -->
 
 
-Latest Updated in Jan. 2023
+Latest Updated in Jan. 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
