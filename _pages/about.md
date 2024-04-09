@@ -73,6 +73,6 @@ Technical Skills
 -->
 
 
-Latest Updated in Jan. 2024
+The latest update is in April 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
