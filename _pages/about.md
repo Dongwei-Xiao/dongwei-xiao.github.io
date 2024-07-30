@@ -54,6 +54,7 @@ Services
 ------
 Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC
+ - 2023: USENIX Security
 
 Teaching
 ------
@@ -62,6 +63,8 @@ Teaching
     
 Awards & Honors
 ------
+**2024** &emsp; HKUST RedBird Academic Excellence Award
+
 **2023** &emsp; HKUST RedBird Academic Excellence Award
 
 **2022** &emsp; Student Grant for SIGMETRICS 2022
@@ -73,6 +76,6 @@ Technical Skills
 -->
 
 
-The latest update is in April 2024
+The latest update is in July 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
