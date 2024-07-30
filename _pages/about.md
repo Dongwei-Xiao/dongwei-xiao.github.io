@@ -53,8 +53,8 @@ Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng.
 Services
 ------
 Artifact Evaluation Committee:
- - 2022: ISSTA, OSDI, USENIX ATC
  - 2023: USENIX Security
+ - 2022: ISSTA, OSDI, USENIX ATC
 
 Teaching
 ------
