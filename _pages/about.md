@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, this is Dongwei Xiao's homepage.
 
-I am a third-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
+I am a fourth-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
   I am now visiting the [Advanced Software Technologies (AST)](https://ast.ethz.ch/) Lab at [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
   Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
 
@@ -24,6 +24,11 @@ Education
 
 Publications
 ------
+### NDSS 2025 
+**MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers**  
+**Dongwei Xiao**, Zhibo Liu, Yiteng Peng, and Shuai Wang  
+*The Network and Distributed System Security Symposium, 2025.*  
+
 ### FSE 2024 
 [**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers**](https://doi.acm.org/?doi=3643781) [[Code](https://github.com/winnylyc/MT-MPC/)]  
 Yichen Li, **Dongwei Xiao**, Zhibo Liu, Qi Pang, and Shuai Wang   
