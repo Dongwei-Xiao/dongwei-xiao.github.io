@@ -27,7 +27,7 @@ Publications
 ### ICSE 2025
 **Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**  
 Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
-*The IEEE/ACM International Conference on Software Engineering, 2025.**  
+*The IEEE/ACM International Conference on Software Engineering, 2025.*  
 
 ### NDSS 2025 
 **MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers**  
