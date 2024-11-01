@@ -24,6 +24,11 @@ Education
 
 Publications
 ------
+### ICSE 2025
+**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**  
+Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
+*The IEEE/ACM International Conference on Software Engineering, 2025.**  
+
 ### NDSS 2025 
 **MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers**  
 **Dongwei Xiao**, Zhibo Liu, Yiteng Peng, and Shuai Wang  
@@ -81,6 +86,6 @@ Technical Skills
 -->
 
 
-The latest update is in September 2024
+The latest update is in November 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
