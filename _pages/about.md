@@ -63,13 +63,14 @@ Artifact Evaluation Committee:
  - 2025: OOPSLA, EuroSys, ICSE, USENIX Security, NDSS
  - 2024: SIGCOMM
  - 2023: USENIX Security
- - 2022: ISSTA, OSDI, USENIX ATC
+ - 2022: ISSTA, OSDI, USENIX ATC  
+
 Reviewer:
  - 2025: ICSE (Shadow PC), ICLR
 
 Teaching
 ------
- * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2024)
+ * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Spring 2024)
  * Teaching Assistant for COMP 3632: Principles of Cybersecurity (HKUST, Fall 2023) 
  * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2022) 
     
@@ -88,6 +89,6 @@ Technical Skills
 -->
 
 
-The latest update is in November 2024
+The latest update is in February 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
