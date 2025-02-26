@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 I am a fourth-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
-  I am now visiting the [Advanced Software Technologies (AST)](https://ast.ethz.ch/) Lab at [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
   Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
 
 My research currently focuses on **Software Engineering**.
@@ -61,12 +60,17 @@ Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng.
 Services
 ------
 Artifact Evaluation Committee:
+ - 2025: OOPSLA, EuroSys, ICSE, USENIX Security, NDSS
+ - 2024: SIGCOMM
  - 2023: USENIX Security
  - 2022: ISSTA, OSDI, USENIX ATC
+Reviewer:
+ - 2025: ICSE (Shadow PC), ICLR
 
 Teaching
 ------
- * Teaching Assistant for COMP 3632: Principles of Cybersecurity (HKUST, Fall 2024) 
+ * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2024)
+ * Teaching Assistant for COMP 3632: Principles of Cybersecurity (HKUST, Fall 2023) 
  * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2022) 
     
 Awards & Honors
