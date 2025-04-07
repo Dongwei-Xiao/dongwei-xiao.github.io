@@ -7,27 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
-  Before joining HKUST, I received my B.Eng. degree from Zhejiang University, Hangzhou, China in 2021.
+I am a PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
-My research currently focuses on **Software Engineering**.
-
-Education
-------
-**Ph.D.** Hong Kong University of Science and Technology  &emsp; &emsp; &emsp; &nbsp; *Sept 2021 - Now*
-
-**B.E.** in Computer Science and Technology, Zhejiang University &emsp; *Sept 2017 - June 2021*
-
+My research focuses on **enhancing the reliability of software systems.**
 
 Publications
 ------
+### PLDI 2025
+**Divergence-aware Testing of Graphics Shader Compiler Back-ends.**  
+**Dongwei Xiao**, Shuai Wang, Zhibo Liu, Yiteng Peng, Daoyuan Wu, and Zhendong Su.  
+*The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation, 2025.*  
+
 ### ICSE 2025
 **Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**  
 Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
 *The IEEE/ACM International Conference on Software Engineering, 2025.*  
 
 ### NDSS 2025 
-**MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers**  
+[**MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers**](https://dx.doi.org/10.14722/ndss.2025.230530)  
 **Dongwei Xiao**, Zhibo Liu, Yiteng Peng, and Shuai Wang  
 *The Network and Distributed System Security Symposium, 2025.*  
 
@@ -89,6 +86,6 @@ Technical Skills
 -->
 
 
-The latest update is in February 2025
+The latest update is in April 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
