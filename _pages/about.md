@@ -14,7 +14,7 @@ My research focuses on **enhancing the reliability of software systems.**
 Publications
 ------
 ### PLDI 2025
-**Divergence-aware Testing of Graphics Shader Compiler Back-ends.**  
+**Divergence-Aware Testing of Graphics Shader Compiler Back-Ends**  
 **Dongwei Xiao**, Shuai Wang, Zhibo Liu, Yiteng Peng, Daoyuan Wu, and Zhendong Su.  
 *The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation, 2025.*  
 
