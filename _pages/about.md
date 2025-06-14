@@ -14,12 +14,12 @@ My research focuses on **enhancing the reliability of software systems.**
 Publications
 ------
 ### PLDI 2025
-**Divergence-Aware Testing of Graphics Shader Compiler Back-Ends**  
+[**Divergence-Aware Testing of Graphics Shader Compiler Back-Ends**](https://doi.org/10.1145/3729305)  
 **Dongwei Xiao**, Shuai Wang, Zhibo Liu, Yiteng Peng, Daoyuan Wu, and Zhendong Su.  
 *The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation, 2025.*  
 
 ### ICSE 2025
-**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**  
+[**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://daoyuan14.github.io/papers/ICSE25_HEDiff.pdf)  
 Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
 *The IEEE/ACM International Conference on Software Engineering, 2025.*  
 
