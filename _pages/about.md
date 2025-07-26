@@ -63,6 +63,7 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
+ - 2026: ICSE (Shadow PC)  
  - 2025: ICSE (Shadow PC), ICLR
 
 Teaching
