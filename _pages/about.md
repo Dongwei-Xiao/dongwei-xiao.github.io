@@ -19,7 +19,7 @@ Publications
 *The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation, 2025.*  
 
 ### ICSE 2025
-[**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://daoyuan14.github.io/papers/ICSE25_HEDiff.pdf)  
+[**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://doi.org/10.1109/ICSE55347.2025.00107)  
 Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
 *The IEEE/ACM International Conference on Software Engineering, 2025.*  
 
@@ -63,7 +63,7 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
- - 2026: ICSE (Shadow PC)  
+ - 2026: ICSE (Shadow PC), TSE  
  - 2025: ICSE (Shadow PC), ICLR
 
 Teaching
@@ -89,6 +89,6 @@ Technical Skills
 -->
 
 
-The latest update is in July 2025
+The latest update is in August 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
