@@ -13,6 +13,12 @@ My research focuses on **enhancing the reliability of software systems.**
 
 Publications
 ------
+### OOPSLA 2025
+Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines  
+Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
+*Proceedings of the ACM on Programming Languages, Issue OOPSLA*  
+$^\dagger$ Equal contribution.  
+
 ### PLDI 2025
 [**Divergence-Aware Testing of Graphics Shader Compiler Back-Ends**](https://doi.org/10.1145/3729305)  
 **Dongwei Xiao**, Shuai Wang, Zhibo Liu, Yiteng Peng, Daoyuan Wu, and Zhendong Su.  
@@ -63,8 +69,8 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
- - 2026: ICSE (Shadow PC), TSE  
- - 2025: ICSE (Shadow PC), ICLR
+ - 2026: ICSE (Shadow PC)   
+ - 2025: ICSE (Shadow PC), ICLR, TSE
 
 Teaching
 ------
