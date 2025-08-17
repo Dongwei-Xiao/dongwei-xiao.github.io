@@ -13,6 +13,11 @@ My research focuses on **enhancing the reliability of software systems.**
 
 Publications
 ------
+### CCS 2025
+The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks  
+Yiteng Peng, **Dongwei Xiao**, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang, and Juergen Rahmel.  
+*The 32nd ACM Conference on Computer and Communications Security.*  
+
 ### OOPSLA 2025
 Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines  
 Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
