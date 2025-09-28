@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang] (https://www.cse.ust.hk/shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
+I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
 My research focuses on **fortifying privacy-enhancing technology systems.**
 
