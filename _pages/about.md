@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD candidate at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
+I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang] (https://www.cse.ust.hk/shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
 My research focuses on **enhancing the reliability of software systems.**
 
@@ -74,7 +74,7 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
- - 2026: ICSE (Shadow PC)   
+ - 2026: ICSE (Shadow PC), ICLR   
  - 2025: ICSE (Shadow PC), ICLR, TSE
 
 Teaching
@@ -100,6 +100,6 @@ Technical Skills
 -->
 
 
-The latest update is in August 2025
+The latest update is in September 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
