@@ -81,7 +81,7 @@ Reviewer:
 
 Teaching
 ------
- * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Spring 2024)
+ * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Spring 2025)
  * Teaching Assistant for COMP 3632: Principles of Cybersecurity (HKUST, Fall 2023) 
  * Teaching Assistant for COMP 2011: Programming with C++ (HKUST, Fall 2022) 
     
