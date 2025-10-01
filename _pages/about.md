@@ -42,7 +42,7 @@ Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel
 
 ### FSE 2024 
 [**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers**](https://doi.acm.org/?doi=3643781) [[Code](https://github.com/winnylyc/MT-MPC/)]  
-Yichen Li, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Qi Pang, and Shuai Wang$^\ddagger$   
+Yichen Li, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Qi Pang, and Shuai Wang $^\ddagger$  
 *The ACM International Conference on the Foundations of Software Engineering, 2024.*  
 $^\ddagger$ Corresponding authors.  
 
