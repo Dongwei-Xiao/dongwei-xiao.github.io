@@ -9,14 +9,15 @@ redirect_from:
 ---
 I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
-My research focuses on **fortifying privacy-enhancing technology systems.**
+My research focuses on **system dependability of privacy-enhancing technologies.**
 
 Publications
 ------
 ### CCS 2025
 The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks  
-Yiteng Peng, **Dongwei Xiao**, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang, and Juergen Rahmel.  
+Yiteng Peng, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang $^\ddagger$, and Juergen Rahmel.  
 *The 32nd ACM Conference on Computer and Communications Security.*  
+$^\ddagger$ Corresponding authors.  
 
 ### OOPSLA 2025
 Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines  
@@ -41,8 +42,9 @@ Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel
 
 ### FSE 2024 
 [**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers**](https://doi.acm.org/?doi=3643781) [[Code](https://github.com/winnylyc/MT-MPC/)]  
-Yichen Li, **Dongwei Xiao**, Zhibo Liu, Qi Pang, and Shuai Wang   
+Yichen Li, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Qi Pang, and Shuai Wang$^\ddagger$   
 *The ACM International Conference on the Foundations of Software Engineering, 2024.*  
+$^\ddagger$ Corresponding authors.  
 
 ### ASE 2023 
 [**PHYFU: Fuzzing Modern Physics Simulation Engines**](https://ieeexplore.ieee.org/document/10298312) [[Code](https://github.com/PhyFuzz/phyfu)]  
@@ -74,7 +76,7 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
- - 2026: ICSE (Shadow PC), ICLR   
+ - 2026: ICSE (Shadow PC), ICLR, ISSTA (PC)  
  - 2025: ICSE (Shadow PC), ICLR, TSE
 
 Teaching
@@ -100,6 +102,6 @@ Technical Skills
 -->
 
 
-The latest update is in September 2025
+The latest update is in October 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
