@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
+I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/shuaiw/). I am working as a Postdoc at HKUST. I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
 My research focuses on **system dependability of privacy-enhancing technologies.**
 
@@ -20,7 +20,7 @@ Yiteng Peng, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shu
 $^\ddagger$ Corresponding authors.  
 
 ### OOPSLA 2025
-Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines  
+[**Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines**](https://doi.org/10.1145/3763154)  
 Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
 *Proceedings of the ACM on Programming Languages, Issue OOPSLA*  
 $^\dagger$ Equal contribution.  
