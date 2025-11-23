@@ -14,7 +14,7 @@ My research focuses on **system dependability of privacy-enhancing technologies.
 Publications
 ------
 ### CCS 2025
-The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks  
+[**The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks**](https://doi.org/10.1145/3719027.3765107)  
 Yiteng Peng, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang $^\ddagger$, and Juergen Rahmel.  
 *The 32nd ACM Conference on Computer and Communications Security.*  
 $^\ddagger$ Corresponding authors.  
