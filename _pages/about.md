@@ -7,28 +7,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/shuaiw/). I am working as a Postdoc at HKUST. I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
+I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I am working as a Postdoc at HKUST. I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
 My research focuses on **system dependability of privacy-enhancing technologies.**
 
 Publications
 ------
+$^\ddagger$ Corresponding authors.  
+$^\dagger$ Equal contribution.  
+
+### OOPSLA 2026
+[**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents.**](#)  
+Gengyang Xu, **Dongwei Xiao**$^\ddagger$, Yiteng Peng $^\ddagger$, and Shuai Wang.  
+*Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
+
+### OOPSLA 2026
+[**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer.**](https://arxiv.org/abs/2602.23065)  
+Kunpeng Zhang, **Dongwei Xiao**$^\ddagger$, Daoyuan Wu, Shuai Wang, Jiali Zhao, Yuanyi Lin, Tongtong Xu, and Shaohua Wang.  
+*Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
+
 ### CCS 2025
 [**The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks**](https://doi.org/10.1145/3719027.3765107)  
 Yiteng Peng, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang $^\ddagger$, and Juergen Rahmel.  
 *The 32nd ACM Conference on Computer and Communications Security.*  
-$^\ddagger$ Corresponding authors.  
 
 ### OOPSLA 2025
 [**Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines**](https://doi.org/10.1145/3763154)  
 Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
-*Proceedings of the ACM on Programming Languages, Issue OOPSLA*  
-$^\dagger$ Equal contribution.  
+*Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
 
 ### PLDI 2025
 [**Divergence-Aware Testing of Graphics Shader Compiler Back-Ends**](https://doi.org/10.1145/3729305)  
 **Dongwei Xiao**, Shuai Wang, Zhibo Liu, Yiteng Peng, Daoyuan Wu, and Zhendong Su.  
 *The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation, 2025.*  
+★ Selected by the [MIT Programming Languages Review](https://plr.csail.mit.edu/) for an Invited Talk  
 
 ### ICSE 2025
 [**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://doi.org/10.1109/ICSE55347.2025.00107)  
@@ -44,7 +56,6 @@ Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel
 [**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers**](https://doi.acm.org/?doi=3643781) [[Code](https://github.com/winnylyc/MT-MPC/)]  
 Yichen Li, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Qi Pang, and Shuai Wang $^\ddagger$  
 *The ACM International Conference on the Foundations of Software Engineering, 2024.*  
-$^\ddagger$ Corresponding authors.  
 
 ### ASE 2023 
 [**PHYFU: Fuzzing Modern Physics Simulation Engines**](https://ieeexplore.ieee.org/document/10298312) [[Code](https://github.com/PhyFuzz/phyfu)]  
