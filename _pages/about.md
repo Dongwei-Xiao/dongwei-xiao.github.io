@@ -16,6 +16,11 @@ Publications
 $^\ddagger$ Corresponding authors.  
 $^\dagger$ Equal contribution.  
 
+### ISSTA 2026 
+[**When Optimizations Backfire: The Paradox of Plaintext Optimizations in Privacy-Preserving ML Compilers**](#)  
+Yichen Li, Jin Tan, **Dongwei Xiao**$^\ddagger$, Yiteng Peng, Pingchuan Ma, Junming Ma, Shoumeng Yan, Shuai Wang, Fengwei Zhang $^\ddagger$.  
+*Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.*
+
 ### OOPSLA 2026
 [**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents.**](#)  
 Gengyang Xu, **Dongwei Xiao**$^\ddagger$, Yiteng Peng $^\ddagger$, and Shuai Wang.  
@@ -113,6 +118,6 @@ Technical Skills
 -->
 
 
-The latest update is in March 2026
+The latest update is in April 2026
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tL7XgyZw0CuieKyBQm3coLs2JdWiwgfF236zkA_oBto&cl=ffffff&w=a"></script>
