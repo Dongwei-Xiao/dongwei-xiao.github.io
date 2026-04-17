@@ -13,32 +13,29 @@ My research focuses on **system dependability of privacy-enhancing technologies.
 
 Publications
 ------
-$^\ddagger$ Corresponding authors.  
-$^\dagger$ Equal contribution.  
-
 ### ISSTA 2026 
 [**When Optimizations Backfire: The Paradox of Plaintext Optimizations in Privacy-Preserving ML Compilers**](#)  
-Yichen Li, Jin Tan, **Dongwei Xiao**$^\ddagger$, Yiteng Peng, Pingchuan Ma, Junming Ma, Shoumeng Yan, Shuai Wang, Fengwei Zhang $^\ddagger$.  
+Yichen Li, Jin Tan, **Dongwei Xiao***, Yiteng Peng, Pingchuan Ma, Junming Ma, Shoumeng Yan, Shuai Wang, Fengwei Zhang*.  
 *Proceedings of the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis.*
 
 ### OOPSLA 2026
-[**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents.**](#)  
-Gengyang Xu, **Dongwei Xiao**$^\ddagger$, Yiteng Peng $^\ddagger$, and Shuai Wang.  
+[**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents.**](https://doi.org/10.1145/3798212) [[Code](https://doi.org/10.5281/zenodo.19394476)]  
+Gengyang Xu, **Dongwei Xiao***, Yiteng Peng*, and Shuai Wang.  
 *Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
 
 ### OOPSLA 2026
-[**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer.**](https://arxiv.org/abs/2602.23065)  
-Kunpeng Zhang, **Dongwei Xiao**$^\ddagger$, Daoyuan Wu, Shuai Wang, Jiali Zhao, Yuanyi Lin, Tongtong Xu, and Shaohua Wang.  
+[**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer.**](https://doi.org/10.1145/3798258)  
+Kunpeng Zhang, **Dongwei Xiao***, Daoyuan Wu, Shuai Wang, Jiali Zhao, Yuanyi Lin, Tongtong Xu, and Shaohua Wang.  
 *Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
 
 ### CCS 2025
-[**The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks**](https://doi.org/10.1145/3719027.3765107)  
-Yiteng Peng, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang $^\ddagger$, and Juergen Rahmel.  
+[**The Phantom Menace in PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks**](https://doi.org/10.1145/3719027.3765107) [[Code](https://sites.google.com/view/conpetro)]  
+Yiteng Peng, **Dongwei Xiao***, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang*, and Juergen Rahmel.  
 *The 32nd ACM Conference on Computer and Communications Security.*  
 
 ### OOPSLA 2025
 [**Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines**](https://doi.org/10.1145/3763154)  
-Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
+Wai Kin Wong^, **Dongwei Xiao**^, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang.  
 *Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
 
 ### PLDI 2025
@@ -48,7 +45,7 @@ Wai Kin Wong $^\dagger$, **Dongwei Xiao**$^\dagger$, Cheuk Tung Lai, Yiteng Peng
 ★ Selected by the [MIT Programming Languages Review](https://plr.csail.mit.edu/) for an Invited Talk  
 
 ### ICSE 2025
-[**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://doi.org/10.1109/ICSE55347.2025.00107)  
+[**Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models**](https://doi.org/10.1109/ICSE55347.2025.00107) [[Code](https://github.com/Yiteng-Peng/HEDiff)]  
 Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel, and Shuai Wang  
 *The IEEE/ACM International Conference on Software Engineering, 2025.*  
 
@@ -59,7 +56,7 @@ Yiteng Peng, Daoyuan Wu, Zhibo Liu, **Dongwei Xiao**, Zhenlan Ji, Juergen Rahmel
 
 ### FSE 2024 
 [**Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers**](https://doi.acm.org/?doi=3643781) [[Code](https://github.com/winnylyc/MT-MPC/)]  
-Yichen Li, **Dongwei Xiao**$^\ddagger$, Zhibo Liu, Qi Pang, and Shuai Wang $^\ddagger$  
+Yichen Li, **Dongwei Xiao***, Zhibo Liu, Qi Pang, and Shuai Wang*  
 *The ACM International Conference on the Foundations of Software Engineering, 2024.*  
 
 ### ASE 2023 
@@ -82,6 +79,9 @@ Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng.
 [**Metamorphic Testing of Deep Learning Compilers**](https://dl.acm.org/doi/abs/10.1145/3508035) [[Code](https://github.com/Wilbur-Django/Testing-DNN-Compilers)]  
 **Dongwei Xiao**, Zhibo Liu, Yuanyuan Yuan, Qi Pang, and Shuai Wang.  
 *Proceedings of the ACM on Measurement and Analysis of Computing Systems, 2022.*
+
+\* Corresponding authors.  
+^ Equal contribution.
 
 Services
 ------
