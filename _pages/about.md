@@ -19,7 +19,7 @@ $^\dagger$ Equal contribution.
 ### ISSTA 2026 
 [**When Optimizations Backfire: The Paradox of Plaintext Optimizations in Privacy-Preserving ML Compilers**](#)  
 Yichen Li, Jin Tan, **Dongwei Xiao**$^\ddagger$, Yiteng Peng, Pingchuan Ma, Junming Ma, Shoumeng Yan, Shuai Wang, Fengwei Zhang $^\ddagger$.  
-*Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis.*
+*Proceedings of the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis.*
 
 ### OOPSLA 2026
 [**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents.**](#)  
