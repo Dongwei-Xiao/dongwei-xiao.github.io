@@ -13,8 +13,21 @@ My research focuses on **system dependability of privacy-enhancing technologies.
 
 Publications
 ------
-### ISSTA 2026 
-[**When Optimizations Backfire: The Paradox of Plaintext Optimizations in Privacy-Preserving ML Compilers**](#)  
+\* Corresponding authors.  
+^ Equal contribution.
+
+### ASPLOS 2027
+**Finding Performance Regressions in GPU Compilers**  
+Wai Kin Wong^, **Dongwei Xiao**^, Ping Fan Ke, Fengwei Zhang, Shuai Wang  
+*The 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems.*  
+
+### SOSP 2026
+[**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**](https://doi.org/10.1145/3719027.3765107)  
+Wai Kin Wong^, **Dongwei Xiao**^, Anthony Cheuk Tung Lai, Ping Fan Ke, Shuai Wang  
+*The 32nd Symposium on Operating Systems Principles.*  
+
+### ISSTA 2026
+[**When Optimizations Backfire: The Paradox of Plaintext Optimizations in Privacy-Preserving ML Compilers**](https://doi.org/10.1145/3832235) [[Code](https://github.com/secretflow/spu/tree/hopta_issta26)]  
 Yichen Li, Jin Tan, **Dongwei Xiao**\*, Yiteng Peng, Pingchuan Ma, Junming Ma, Shoumeng Yan, Shuai Wang, Fengwei Zhang\*  
 *Proceedings of the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis.*
 
@@ -35,7 +48,7 @@ Yiteng Peng, **Dongwei Xiao**\*, Zhibo Liu, Zhenlan Ji, Daoyuan Wu, Shuai Wang\*
 
 ### OOPSLA 2025
 [**Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines**](https://doi.org/10.1145/3763154)  
-Wai Kin Wong^, **Dongwei Xiao**^, Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang  
+Wai Kin Wong^, **Dongwei Xiao**^, Anthony Cheuk Tung Lai, Yiteng Peng, Daoyuan Wu, and Shuai Wang  
 *Proceedings of the ACM on Programming Languages, Issue OOPSLA.*  
 
 ### PLDI 2025
@@ -79,9 +92,6 @@ Zhibo Liu, **Dongwei Xiao**, Zongjie Li, Shuai Wang, Wei Meng
 [**Metamorphic Testing of Deep Learning Compilers**](https://dl.acm.org/doi/abs/10.1145/3508035) [[Code](https://github.com/Wilbur-Django/Testing-DNN-Compilers)]  
 **Dongwei Xiao**, Zhibo Liu, Yuanyuan Yuan, Qi Pang, and Shuai Wang  
 *Proceedings of the ACM on Measurement and Analysis of Computing Systems, 2022.*
-
-\* Corresponding authors.  
-^ Equal contribution.
 
 Services
 ------
