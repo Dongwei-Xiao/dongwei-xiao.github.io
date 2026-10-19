@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I am working as a Postdoc at HKUST. I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
+I am an Assistant Professor at the University of Birmingham. I obtained my PhD at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, where I had the privilege of being advised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I was once a visiting student at ETH Zürich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/).
 
-My research focuses on **system dependability of privacy-enhancing technologies.**
+My research focuses on **software dependability.**
 
 Publications
 ------
@@ -102,6 +102,7 @@ Artifact Evaluation Committee:
  - 2022: ISSTA, OSDI, USENIX ATC  
 
 Reviewer:
+ - 2027: IEEE S&P (PC)  
  - 2026: ICSE (Shadow PC), ICLR, ISSTA (PC)  
  - 2025: ICSE (Shadow PC), ICLR, TSE
 
