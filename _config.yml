@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong"
+locale                   : "en"
 title                    : "Dongwei Xiao"
 title_separator          : "-"
 name                     : &name "Dongwei Xiao"
-description              : &description "Postdoctoral Researcher at Department of Computer Science and Engineering, HKUST"
+description              : &description "Assistant Professor, the University of Birmingham"
 url                      : https://dongwei-xiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://dongwei-xiao.github.io/"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dongwei Xiao"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher at Department of Computer Science and Engineering, HKUST"
-  location         : "Hong Kong, China"
+  bio              : "Assistant Professor at the School of Computer Science, the University of Birmingham"
+  location         : "Birmingham, the United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=lMqmhpwAAAAJ&hl=en
