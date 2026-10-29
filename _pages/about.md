@@ -22,7 +22,7 @@ Wai Kin Wong^, **Dongwei Xiao**^, Ping Fan Ke, Fengwei Zhang, Shuai Wang
 *The 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems.*  
 
 ### SOSP 2026
-[**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**](https://doi.org/10.1145/3719027.3765107)  
+[**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**](https://doi.org/10.1145/3830418.3843900)  
 Wai Kin Wong^, **Dongwei Xiao**^, Anthony Cheuk Tung Lai, Ping Fan Ke, Shuai Wang  
 *The 32nd Symposium on Operating Systems Principles.*  
 
