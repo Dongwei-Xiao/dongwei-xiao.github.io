@@ -17,7 +17,7 @@ Publications
 ^ Equal contribution.
 
 ### ASPLOS 2027
-**Finding Performance Regressions in GPU Compilers**  
+[**Finding Performance Regressions in GPU Compilers**](https://pure-oai.bham.ac.uk/ws/portalfiles/portal/326011327/accepted-paper_Dongwei_Xiao.pdf)  
 Wai Kin Wong^, **Dongwei Xiao**^, Ping Fan Ke, Fengwei Zhang, Shuai Wang  
 *The 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems.*  
 
