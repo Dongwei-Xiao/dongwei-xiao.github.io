@@ -114,6 +114,8 @@ Teaching
     
 Awards & Honors
 ------
+**2026** &emsp; HKUST CSE Best PhD Dissertation Award (Honorable Mention)
+
 **2025** &emsp; HKUST RedBird Academic Excellence Award
 
 **2024** &emsp; HKUST RedBird Academic Excellence Award
@@ -129,4 +131,4 @@ Technical Skills
 -->
 
 
-The latest update is in October 2026
+The latest update is in November 2026
